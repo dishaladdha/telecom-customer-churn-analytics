@@ -75,7 +75,7 @@ telecom-customer-churn-analytics
 
 ### Executive Summary
 
-images/01_executive_summary.png
+![Executive Summary](images/01_
 
 ### Customer Segmentation
 
@@ -87,7 +87,7 @@ images/03_revenue_analysis.png
 
 ### Retention Strategy
 
-images/04_retention_strategy.png
+![Retention Strategy](images/04_retention
 
 ## Author
 
