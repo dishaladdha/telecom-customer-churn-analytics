@@ -1,0 +1,3 @@
+-- Data loaded using MySQL Workbench Table Data Import Wizard
+-- Source File: Telco-Customer-Churn.csv
+-- Target Table: customer_churn_raw
