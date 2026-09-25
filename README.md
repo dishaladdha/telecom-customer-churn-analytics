@@ -76,19 +76,19 @@ telecom-customer-churn-analytics
 
 ### Executive Summary 
 
-images/01_executive_summary.png
+https://github.com/dishaladdha/telecom-customer-churn-analytics/blob/main/images/01_executive_summary.png
 
 ### Customer Segmentation 
 
-images/02_customer_segmentation.png 
+https://github.com/dishaladdha/telecom-customer-churn-analytics/blob/main/images/02_customer_segmentation.png 
 
 ### Revenue Analysis 
 
-images/03_revenue_analysis.png 
+https://github.com/dishaladdha/telecom-customer-churn-analytics/blob/main/images/03_revenue_analysis.png 
 
 ### Retention Strategy 
 
-images/04_retention_strategy.png
+https://github.com/dishaladdha/telecom-customer-churn-analytics/blob/main/images/04_retention_strategy.png
 
 
 ## Author
