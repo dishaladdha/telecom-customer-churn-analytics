@@ -76,7 +76,7 @@ telecom-customer-churn-analytics
 
 ### Executive Summary 
 
-images/01_executive_summary.png 
+images/01_executive_summary.png
 
 ### Customer Segmentation 
 
