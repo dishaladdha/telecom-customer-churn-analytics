@@ -72,23 +72,24 @@ telecom-customer-churn-analytics
 ├── images  
 
 
-## Dashboard Screenshots
+## Dashboard Screenshots 
 
-### Executive Summary
+### Executive Summary 
 
-images/01_executive_summary.png
+images/01_executive_summary.png 
 
-### Customer Segmentation
+### Customer Segmentation 
 
-images/02_customer_segmentation.png
+images/02_customer_segmentation.png 
 
-### Revenue Analysis
+### Revenue Analysis 
 
-images/03_revenue_analysis.png
+images/03_revenue_analysis.png 
 
-### Retention Strategy
+### Retention Strategy 
 
 images/04_retention_strategy.png
+
 
 ## Author
 
